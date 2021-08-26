@@ -10,4 +10,10 @@ Create a coding quiz that dynamically cycles through questions and saves scores.
 
 [Source Code](https://github.com/kerilp/coding-quiz-challenge)
 
-![Site Screenshot](./assets/images/screenshot.png)
+![Main Page](./assets/images/screenshot.png)
+
+![Quiz Running](./assets/images/playing-quiz.png)
+
+![Score Input](./assets/images/enter-score.png)
+
+![Highscores Page](./assets/images/highscores.png)
