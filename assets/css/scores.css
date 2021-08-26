@@ -1,0 +1,73 @@
+:root {
+    --light: rgb(134, 106, 158);
+    --dark: rgb(66, 0, 128);
+}
+
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Element Selectors */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+}
+
+header {
+    margin-top: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+li {
+    background-color: var(--dark);
+    text-align: center;
+    color: white;
+    margin: 10px auto;
+    width: 400px;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+li:nth-child(even) {
+    background-color: var(--light);
+}
+
+section {
+    margin: 10px auto;
+    justify-content: center;
+}
+
+button {
+    margin: 3px;
+    padding: 4px 30px;
+    border-radius: 4px;
+    font-size: 20px;
+    background-color: var(--light);
+    color: white;
+}
+
+button:hover {
+    background-color: var(--dark);
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
