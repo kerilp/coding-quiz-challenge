@@ -1,8 +1,6 @@
 # Coding Quiz
 
-## Homework 04: Portfolio Assignment
-
-Create a coding quiz that dynamically cycles through questions and saves scores.
+A coding quiz game that tests users on their coding knowledge by dynamically cycling through questions and allowing users to save their scores.
 
 ## Links
 
