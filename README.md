@@ -8,6 +8,12 @@ A coding quiz game that tests users on their coding knowledge by dynamically cyc
 
 [Source Code](https://github.com/kerilp/coding-quiz-challenge)
 
+## Technology Used
+
+Languages: HTML, CSS, JavaScript
+
+## Screenshots
+
 ![Main Page](./assets/images/screenshot.png)
 
 ![Quiz Running](./assets/images/playing-quiz.png)
@@ -15,3 +21,7 @@ A coding quiz game that tests users on their coding knowledge by dynamically cyc
 ![Score Input](./assets/images/enter-score.png)
 
 ![Highscores Page](./assets/images/highscores.png)
+
+## License
+
+MIT License
